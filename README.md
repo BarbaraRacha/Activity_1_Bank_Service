@@ -15,22 +15,22 @@
 
 <h2>4. Tester la couche DAO</h2>
 <p><strong>Description :</strong> Tester les méthodes CRUD de <code>CompteRepository</code> avec une base de données en mémoire H2.</p>
-<img src="./images/Compte_BD.png" alt="Compte BD" width="500">
+<img src="images/Compte_BD.png" alt="Compte BD" width="500">
 
 <h2>5. Créer le Web service Restful qui permet de gérer des comptes</h2>
 <p><strong>Description :</strong> Créer un service Rest qui permet d'effectuer des opérations sur les comptes (ajouter, supprimer, modifier).</p>
-<img src="./images/RestFull.png" alt="RestFull Service" width="500">
+<img src="images/RestFull.png" alt="RestFull Service" width="500">
 
 <h2>6. Tester le web micro-service en utilisant un client REST comme Postman</h2>
 <p><strong>Description :</strong> Tester les points d'entrée de l'API Rest avec Postman.</p>
 <p>Exemple de méthode GET :</p>
-<img src="./images/GET_Compte_Postman.png" alt="GET Compte Postman" width="500">
+<img src="images/GET_Compte_Postman.png" alt="GET Compte Postman" width="500">
 <p>Exemple de méthode POST :</p>
-<img src="./images/POST_Compte_Postman.png" alt="POST Compte Postman" width="500">
+<img src="images/POST_Compte_Postman.png" alt="POST Compte Postman" width="500">
 
 <h2>7. Générer et tester la documentation Swagger des API Rest du Web service</h2>
 <p><strong>Description :</strong> Ajouter la documentation Swagger pour décrire les endpoints de l'API.</p>
-<img src="./images/swagger_ui.png" alt="Swagger UI" width="500">
+<img src="images/swagger_ui.png" alt="Swagger UI" width="500">
 
 <h2>8. Exposer une API Restful en utilisant Spring Data Rest en exploitant des projections</h2>
 <p><strong>Description :</strong> Exposer des projections pour les entités afin de limiter les données exposées via l'API Rest.</p>
@@ -42,18 +42,18 @@
 
 <h2>10. Créer la couche Service (métier) et du micro service</h2>
 <p><strong>Description :</strong> Implémenter la couche service pour la logique métier et l'intégration avec l'API.</p>
-<img src="./images/Couche_Service.png" alt="Couche Service" width="500">
+<img src="images/Couche_Service.png" alt="Couche Service" width="500">
 
 <h2>11. Créer un Web service GraphQL pour ce Micro-service</h2>
 <p><strong>Description :</strong> Implémenter un service GraphQL pour l'interrogation des données de compte.</p>
 <p>Schema "GraphQL"</p>
-<img src="./images/schema_GraphQL.png" alt="Schema GraphQL" width="500">
+<img src="images/schema_GraphQL.png" alt="Schema GraphQL" width="500">
 <p>Classe "AccountGraphQLController"</p>
-<img src="./images/classe_GraphQL.png" alt="Classe GraphQL" width="500">
+<img src="images/classe_GraphQL.png" alt="Classe GraphQL" width="500">
 
 <h2>Quelques Affichages avec GraphQL</h2>
-<img src="./images/capture_1.png" alt="Capture 1" width="500">
-<img src="./images/capture_2.png" alt="Capture 2" width="500">
-<img src="./images/capture_3.png" alt="Capture 3" width="500">
-<img src="./images/capture_7.png" alt="Capture 7" width="500">
-<img src="./images/capture_12.png" alt="Capture 12" width="500">
+<img src="images/capture_1.png" alt="Capture 1" width="500">
+<img src="images/capture_2.png" alt="Capture 2" width="500">
+<img src="images/capture_3.png" alt="Capture 3" width="500">
+<img src="images/capture_7.png" alt="Capture 7" width="500">
+<img src="images/capture_12.png" alt="Capture 12" width="500">
