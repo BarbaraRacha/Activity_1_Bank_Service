@@ -1,8 +1,8 @@
 <h1>Projet Spring Boot - Gestion des Comptes</h1>
 
-    <p>Ce projet couvre différentes étapes pour créer et tester une application Spring Boot pour la gestion des comptes, en suivant les questions fournies.</p>
+<p>Ce projet couvre différentes étapes pour créer et tester une application Spring Boot pour la gestion des comptes, en suivant les questions fournies.</p>
 
-    <h2>1. Créer un projet Spring Boot avec les dépendances Web, Spring Data JPA, H2, Lombok</h2>
+<h2>1. Créer un projet Spring Boot avec les dépendances Web, Spring Data JPA, H2, Lombok</h2>
     <p><strong>Description :</strong> Initialiser un projet Spring Boot avec les dépendances nécessaires pour la gestion des comptes.</p>
 
     <h2>2. Créer l'entité JPA Compte</h2>
