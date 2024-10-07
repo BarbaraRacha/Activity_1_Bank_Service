@@ -7,7 +7,7 @@
 
 <h2>2. Créer l'entité JPA Compte</h2>
 <p><strong>Description :</strong> Définir l'entité <code>Compte</code> avec des attributs tels que <code>id</code>, <code>balance</code>, et <code>currency</code>.</p>
-<img src="/src/images/class_Compte.png">
+<img src="./images/class_Compte.png">
 
 <h2>3. Créer l'interface CompteRepository basée sur Spring Data</h2>
 <p><strong>Description :</strong> Créer un repository qui étend <code>JpaRepository</code> pour gérer les entités <code>Compte</code>.</p>
