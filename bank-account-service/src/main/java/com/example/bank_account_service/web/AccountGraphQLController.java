@@ -4,7 +4,6 @@ import com.example.bank_account_service.dto.BankAccountRequestDTO;
 import com.example.bank_account_service.dto.BankAccountResponseDTO;
 import com.example.bank_account_service.entities.BankAccount;
 import com.example.bank_account_service.entities.Customer;
-import com.example.bank_account_service.enums.AccountStatus;
 import com.example.bank_account_service.repositories.BankAccountRepository;
 import com.example.bank_account_service.repositories.CustomerRepository;
 import com.example.bank_account_service.service.AccountService;

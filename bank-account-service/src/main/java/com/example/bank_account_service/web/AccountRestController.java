@@ -14,7 +14,7 @@ import java.util.Optional;
 import java.util.UUID;
 
 @RestController
-@RequestMapping("/api") // ceci permet d'ajouter un chemain /api avant les autres chemins spécifiés par la suite
+@RequestMapping("/api")
 public class AccountRestController {
     @Autowired
     private BankAccountRepository bankAccountRepository;
