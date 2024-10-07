@@ -53,7 +53,7 @@
 
 <h2>Quelques Affichages avec GraphQL</h2>
 <img src="images/capture_1.png" alt="Capture 1" width="500">
-<img src="images/capture_2.png" alt="Capture 2" width="500">
-<img src="images/capture_3.png" alt="Capture 3" width="500">
-<img src="images/capture_7.png" alt="Capture 7" width="500">
-<img src="images/capture_12.png" alt="Capture 12" width="500">
+<img src="images/Capture_2.png" alt="Capture 2" width="500">
+<img src="images/Capture_3.png" alt="Capture 3" width="500">
+<img src="images/Capture_7.png" alt="Capture 7" width="500">
+<img src="images/Capture_12.png" alt="Capture 12" width="500">
