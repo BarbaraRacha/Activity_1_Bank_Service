@@ -7,11 +7,11 @@
 
 <h2>2. Créer l'entité JPA Compte</h2>
 <p><strong>Description :</strong> Définir l'entité <code>Compte</code> avec des attributs tels que <code>id</code>, <code>balance</code>, et <code>currency</code>.</p>
-<img src="./src/images/class_Compte.png" alt="Class Compte" width="500">
+<img src="/src/images/class_Compte.png">
 
 <h2>3. Créer l'interface CompteRepository basée sur Spring Data</h2>
 <p><strong>Description :</strong> Créer un repository qui étend <code>JpaRepository</code> pour gérer les entités <code>Compte</code>.</p>
-<img src="./images/Compte_Repository.png" alt="Compte Repository" width="500">
+<img src="./images/Compte_Repository.png">
 
 <h2>4. Tester la couche DAO</h2>
 <p><strong>Description :</strong> Tester les méthodes CRUD de <code>CompteRepository</code> avec une base de données en mémoire H2.</p>
